@@ -13,5 +13,4 @@ Hệ thống tuyển sinh trực tuyến là một giải pháp kỹ thuật s�
 - Quản lý hồ sơ: Hệ thống cho phép nhà trường quản lý, cập nhật, và theo dõi hồ sơ của các ứng viên. Nhà trường có thể lọc và xem xét hồ sơ dựa trên các tiêu chí khác nhau.
 # Công nghệ sử dụng
 - Giao diện người dùng: các công nghệ web như HTML, CSS, JavaScript.
-- Máy chủ: ngôn ngữ Java.
 - Cơ sở dữ liệu: MySQL
